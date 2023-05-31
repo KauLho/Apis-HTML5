@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin: 10%;
+}
+
+h3 {
+    font-size: 50px;
+}
+video {
+    width: 800px;
+    height: 450px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#volume-up {
+    background-color: green;
+    color: white;
+}
+
+#volume-down {
+    background-color: red;
+    color: white;
+}
+
